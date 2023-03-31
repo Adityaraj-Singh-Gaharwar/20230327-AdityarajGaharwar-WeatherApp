@@ -1,0 +1,6 @@
+framework module Pods_20230327_AdityarajGaharwar_WeatherApp {
+  umbrella header "Pods-20230327-AdityarajGaharwar-WeatherApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
